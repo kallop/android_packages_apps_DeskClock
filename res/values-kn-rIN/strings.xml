@@ -87,8 +87,8 @@
     <string name="settings" msgid="5849739030579520686">"ಸೆಟ್ಟಿಂಗ್‌ಗಳು"</string>
     <string name="snooze_duration_title" msgid="1097309861110780483">"ಸ್ನೂಜ್ ಅವಧಿ"</string>
     <plurals name="snooze_duration" formatted="false" msgid="3112918131095248271">
-      <item quantity="one"><xliff:g id="NUMBER">%d</xliff:g> ನಿಮಿಷಗಳು</item>
-      <item quantity="other"><xliff:g id="NUMBER">%d</xliff:g> ನಿಮಿಷಗಳು</item>
+      <item quantity="one"><xliff:g id="NUMBER">%s</xliff:g> ನಿಮಿಷಗಳು</item>
+      <item quantity="other"><xliff:g id="NUMBER">%s</xliff:g> ನಿಮಿಷಗಳು</item>
     </plurals>
     <plurals name="snooze_picker_label" formatted="false" msgid="322739253661747732">
       <item quantity="one">ನಿಮಿಷಗಳು</item>

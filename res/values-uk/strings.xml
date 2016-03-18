@@ -91,10 +91,10 @@
     <string name="settings" msgid="5849739030579520686">"Налаштування"</string>
     <string name="snooze_duration_title" msgid="1097309861110780483">"Відкласти на"</string>
     <plurals name="snooze_duration" formatted="false" msgid="3112918131095248271">
-      <item quantity="one"><xliff:g id="NUMBER">%d</xliff:g> хвилина</item>
-      <item quantity="few"><xliff:g id="NUMBER">%d</xliff:g> хвилини</item>
-      <item quantity="many"><xliff:g id="NUMBER">%d</xliff:g> хвилин</item>
-      <item quantity="other"><xliff:g id="NUMBER">%d</xliff:g> хвилини</item>
+      <item quantity="one"><xliff:g id="NUMBER">%s</xliff:g> хвилина</item>
+      <item quantity="few"><xliff:g id="NUMBER">%s</xliff:g> хвилини</item>
+      <item quantity="many"><xliff:g id="NUMBER">%s</xliff:g> хвилин</item>
+      <item quantity="other"><xliff:g id="NUMBER">%s</xliff:g> хвилини</item>
     </plurals>
     <plurals name="snooze_picker_label" formatted="false" msgid="322739253661747732">
       <item quantity="one">хвилина</item>

@@ -91,10 +91,10 @@
     <string name="settings" msgid="5849739030579520686">"Nastavitve"</string>
     <string name="snooze_duration_title" msgid="1097309861110780483">"Dolžina dremeža"</string>
     <plurals name="snooze_duration" formatted="false" msgid="3112918131095248271">
-      <item quantity="one"><xliff:g id="NUMBER">%d</xliff:g> minuta</item>
-      <item quantity="two"><xliff:g id="NUMBER">%d</xliff:g> minuti</item>
-      <item quantity="few"><xliff:g id="NUMBER">%d</xliff:g> minute</item>
-      <item quantity="other"><xliff:g id="NUMBER">%d</xliff:g> minut</item>
+      <item quantity="one"><xliff:g id="NUMBER">%s</xliff:g> minuta</item>
+      <item quantity="two"><xliff:g id="NUMBER">%s</xliff:g> minuti</item>
+      <item quantity="few"><xliff:g id="NUMBER">%s</xliff:g> minute</item>
+      <item quantity="other"><xliff:g id="NUMBER">%s</xliff:g> minut</item>
     </plurals>
     <plurals name="snooze_picker_label" formatted="false" msgid="322739253661747732">
       <item quantity="one">minute</item>

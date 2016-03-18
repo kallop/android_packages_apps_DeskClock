@@ -76,14 +76,7 @@ public class AnimatorUtils {
 
         @Override
         public void set(ImageView view, Integer value) {
-            // Ensure the drawable is wrapped using DrawableCompat.
-            final Drawable drawable = view.getDrawable();
-            final Drawable wrappedDrawable = DrawableCompat.wrap(drawable);
-            if (wrappedDrawable != drawable) {
-                view.setImageDrawable(wrappedDrawable);
-            }
-            // Set the new tint value via DrawableCompat.
-            DrawableCompat.setTint(wrappedDrawable, value);
+            view.getDrawable().setTint(value);
         }
     };
 

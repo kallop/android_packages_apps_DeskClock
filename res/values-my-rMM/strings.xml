@@ -87,7 +87,7 @@
     <string name="settings" msgid="5849739030579520686">"ဆက်တင်များ"</string>
     <string name="snooze_duration_title" msgid="1097309861110780483">"မှေးစက်ကာလ"</string>
     <plurals name="snooze_duration" formatted="false" msgid="3112918131095248271">
-      <item quantity="other"><xliff:g id="NUMBER">%d</xliff:g> မိနစ်</item>
+      <item quantity="other"><xliff:g id="NUMBER">%s</xliff:g> မိနစ်</item>
       <item quantity="one">၁ မိနစ်</item>
     </plurals>
     <plurals name="snooze_picker_label" formatted="false" msgid="322739253661747732">

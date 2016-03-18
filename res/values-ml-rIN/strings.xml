@@ -87,7 +87,7 @@
     <string name="settings" msgid="5849739030579520686">"ക്രമീകരണങ്ങൾ"</string>
     <string name="snooze_duration_title" msgid="1097309861110780483">"സ്‌നൂസ് ചെയ്യൽ ദൈർഘ്യം"</string>
     <plurals name="snooze_duration" formatted="false" msgid="3112918131095248271">
-      <item quantity="other"><xliff:g id="NUMBER">%d</xliff:g> മിനിറ്റ്</item>
+      <item quantity="other"><xliff:g id="NUMBER">%s</xliff:g> മിനിറ്റ്</item>
       <item quantity="one">ഒരു മിനിറ്റ്</item>
     </plurals>
     <plurals name="snooze_picker_label" formatted="false" msgid="322739253661747732">

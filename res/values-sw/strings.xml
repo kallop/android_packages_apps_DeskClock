@@ -87,7 +87,7 @@
     <string name="settings" msgid="5849739030579520686">"Mipangilio"</string>
     <string name="snooze_duration_title" msgid="1097309861110780483">"Nikumbushe baada ya"</string>
     <plurals name="snooze_duration" formatted="false" msgid="3112918131095248271">
-      <item quantity="other">Dakika <xliff:g id="NUMBER">%d</xliff:g> </item>
+      <item quantity="other">Dakika <xliff:g id="NUMBER">%s</xliff:g> </item>
       <item quantity="one">Dakika 1</item>
     </plurals>
     <plurals name="snooze_picker_label" formatted="false" msgid="322739253661747732">

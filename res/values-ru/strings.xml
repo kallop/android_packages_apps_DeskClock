@@ -91,10 +91,10 @@
     <string name="settings" msgid="5849739030579520686">"Настройки"</string>
     <string name="snooze_duration_title" msgid="1097309861110780483">"Интервал повтора сигнала"</string>
     <plurals name="snooze_duration" formatted="false" msgid="3112918131095248271">
-      <item quantity="one"><xliff:g id="NUMBER">%d</xliff:g> минута</item>
-      <item quantity="few"><xliff:g id="NUMBER">%d</xliff:g> минуты</item>
-      <item quantity="many"><xliff:g id="NUMBER">%d</xliff:g> минут</item>
-      <item quantity="other"><xliff:g id="NUMBER">%d</xliff:g> минуты</item>
+      <item quantity="one"><xliff:g id="NUMBER">%s</xliff:g> минута</item>
+      <item quantity="few"><xliff:g id="NUMBER">%s</xliff:g> минуты</item>
+      <item quantity="many"><xliff:g id="NUMBER">%s</xliff:g> минут</item>
+      <item quantity="other"><xliff:g id="NUMBER">%s</xliff:g> минуты</item>
     </plurals>
     <plurals name="snooze_picker_label" formatted="false" msgid="322739253661747732">
       <item quantity="one">минуты</item>
